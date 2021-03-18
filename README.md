@@ -1,12 +1,12 @@
 ### Hi there, I'm Ponch - aka [Shux]👋
 
-## I'm a Student, Developer in Efrei Paris !
+## I'm a Student Developer in Efrei Paris !
 
-- 🔭 I am learning how to code on : [Udemy][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 Im looking for an internship for march (2 months)
-- 🥅 2020 Goals: Learn HTML - CSS - JAVA - NODEJS
-- ⚡ Fun fact: I love to play videos games and aquascaping !
+- 🔭 I'm from Thailand and i live in Paris !
+- 🌱 I love learning new languages and i'm always having fun!
+- 👯 Im looking for an internship for 26 April (2 months)
+- 🥅 2021 Goals: Be good at NodesJS, Databases.
+- ⚡ Fun fact: I love to play videos games and muay thai !
 
 ### Spotify Playing 🎧
 
