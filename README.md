@@ -3,10 +3,10 @@
 ## I'm a Student Developer in Efrei Paris !
 
 - 🔭 I'm from Thailand and i live in Paris !
-- 🌱 I love learning new languages and i'm always having fun!
+- 🌱 I love learning new languages and i'm  having fun!
 - 👯 Im looking for an internship for 26 April (2 months)
-- 🥅 2021 Goals: Be good at NodesJS, Databases.
-- ⚡ Fun fact: I love to play videos games and muay thai !
+- 🥅 2021 Goals: Be good at NodesJS and Back-end.
+- ⚡ Fun fact: My goal is to be someone that can change the world.
 
 ### Spotify Playing 🎧
 
