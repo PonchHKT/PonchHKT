@@ -1,4 +1,4 @@
-![Afraz on iOS Academy](https://raw.githubusercontent.com/PonchHKT/PonchHKT/main/header.png)
+![Afraz on iOS Academy](https://raw.githubusercontent.com/PonchHKT/PonchHKT/header.png)
 
 ### Hi there, I'm Ponch - aka [Shux]👋
 
