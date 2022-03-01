@@ -11,9 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="PonchHKT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="PonchHKT | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="left" alt="PonchHKT | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Pornchai Chanaloet | Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" />][facebook]
+[<img align="left" alt="Pornchai Chanaloet | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="left" alt="PonchHKT | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
+[<img align="left" alt="Poncho | Discord" width="22px" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-512.png" />][discord]
 
 <br />
 
@@ -33,8 +34,10 @@
 <br />
 <br />
 
+[facebook]: https://www.facebook.com/poncho.chanaloet/
 [instagram]: https://instagram.com/ponchhkt
 [linkedin]: https://www.linkedin.com/in/pornchai-chanaloet-575a631bb/
+[discord]: https://discord.gg/user/Ponch#5027
 
 ### Spotify Playing 🎧
 
