@@ -7,7 +7,7 @@
 - ✔️ I love learning new languages and i adapt very easily to new technologies
 - 👔 I'm an engineer student in web development at [Efrei Paris](https://eng.efrei.fr/graduate-programs/data-engineering/)
 - 📶 2022 Goals: Get more experience in backendAPI
-- ⚡ Fun fact: I would dream to travel and work remotely
+- ⚡ Interesting fact: In the futur, i would like to travel and work remotely
 
  ### Connect with me:
 
