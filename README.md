@@ -1,7 +1,7 @@
 ![Afraz on iOS Academy](https://raw.githubusercontent.com/PonchHKT/PonchHKT/main/header.jpg)
 ### Hi there, I'm Ponch - aka [Shux]👋
 
-## I'm a Student Developer in Efrei Paris !
+## Im a Junior Web Developper 
 
 - 🗺️ I'm from Thailand and i live in Paris !
 - ✔️ I love learning new languages and i adapt very easily to new technologies
