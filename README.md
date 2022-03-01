@@ -3,16 +3,16 @@
 
 ## I'm a Student Developer in Efrei Paris !
 
-- 🔭 I'm from Thailand and i live in Paris !
-- 🌱 I love learning new languages and i'm  having fun doing it!
-- 👯 Im looking for an internship for 26 April (2 months)
-- 🥅 2021 Goals: Be good at NodesJS and Back-end.
-- ⚡ Fun fact: My goal is to be someone that can change the world.
+- 🗺️ I'm from Thailand and i live in Paris !
+- ✔️ I love learning new languages and i adapt very easily to new technologies
+- 👔 I'm an engineer student in web development at [Efrei Paris](https://eng.efrei.fr/graduate-programs/data-engineering/)
+- 📶 2022 Goals: Get more experience in backendAPI
+- ⚡ Fun fact: I would dream to travel and work remotely
 
 ### Connect with me:
 
-[<img align="left" alt="PonchHKT | YouTube" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="PonchHKT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PonchHKT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="PonchHKT | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 [<img align="left" alt="PonchHKT | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
