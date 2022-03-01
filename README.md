@@ -44,4 +44,4 @@
 
 ### Spotify Playing 🎧
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31skunci24rtoax4gnarchw5idtq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31skunci24rtoax4gnarchw5idtq&cover_image=true&theme=novatorem&bar_color=f00024&bar_color_cover=false)]]
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31skunci24rtoax4gnarchw5idtq&cover_image=true&theme=novatorem&bar_color=f00024&bar_color_cover=false)
