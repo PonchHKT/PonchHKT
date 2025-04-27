@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Ponch | Freelance Web Developer
 
-<div align="center">
-  <img src="/api/placeholder/850/300" alt="Phuket coastline banner image">
-</div>
-
 ```javascript
 const developer = {
   name: "Pornchai Chanaloet",
