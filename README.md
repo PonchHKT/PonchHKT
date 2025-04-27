@@ -4,8 +4,6 @@
   <img src="/api/placeholder/850/300" alt="Phuket coastline banner image">
 </div>
 
-## 💫 About Me
-
 ```javascript
 const developer = {
   name: "Pornchai Chanaloet",
@@ -32,17 +30,15 @@ const developer = {
 ```
 
 ## 🛠️ Tech Stack
-
 ```
 Frontend: React, Vue.js, Next.js, JavaScript/TypeScript, HTML5, CSS3, Tailwind CSS, SASS
-Backend: Node.js, Express, PHP, Laravel, Python, Django
-Database: MongoDB, PostgreSQL, MySQL, Firebase
-DevOps: Docker, AWS, GCP, CI/CD pipelines, Git
-Tools: VS Code, Figma, Adobe XD, Postman, npm/yarn
+Backend: Node.js, Express, PHP, Laravel
+Database: MongoDB, PostgreSQL, MySQL
+DevOps: Docker, AWS, Git
+Tools: VS Code, Figma, Canva, Postman, npm/yarn, Trello
 ```
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PonchHKT&show_icons=true&theme=tokyonight" alt="GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PonchHKT&layout=compact&theme=tokyonight" alt="Most used languages">
@@ -50,12 +46,20 @@ Tools: VS Code, Figma, Adobe XD, Postman, npm/yarn
 
 ## 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/pornchai-chanaloet-575a631bb/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="filter: invert(1);" /></a>
-<a href="https://instagram.com/ponchhkt"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" style="filter: invert(1);" /></a>
-<a href="https://www.facebook.com/poncho.chanaloet/"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" style="filter: invert(1);" /></a>
-<a href="https://discord.gg/user/Ponch#5027"><img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" style="filter: invert(1);" /></a>
-
-<br><br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pornchai-chanaloet-575a631bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/ponchhkt">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/poncho.chanaloet/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://discord.gg/user/Ponch#5027">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 ---
 
