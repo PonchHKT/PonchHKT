@@ -46,21 +46,15 @@ I'm **Pornchai Chanaloet**, a passionate and adaptable **freelance web developer
 
 ## 📫 Connect with Me
 
-[<img align="left" alt="Pornchai Chanaloet | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="left" alt="PonchHKT | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
-[<img align="left" alt="Pornchai Chanaloet | Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" />][facebook]
-[<img align="left" alt="Poncho | Discord" width="22px" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-512.png" />][discord]
+<a href="https://www.linkedin.com/in/pornchai-chanaloet-575a631bb/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="filter: invert(1);" /></a>
+<a href="https://instagram.com/ponchhkt"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" style="filter: invert(1);" /></a>
+<a href="https://www.facebook.com/poncho.chanaloet/"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" style="filter: invert(1);" /></a>
+<a href="https://discord.gg/user/Ponch#5027"><img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" style="filter: invert(1);" /></a>
 
 <br />
 
 ---
 
-## 🎧 Now Playing on Spotify
-
-![Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=31skunci24rtoax4gnarchw5idtq&cover_image=true&theme=novatorem&bar_color=f00024&bar_color_cover=false)
-
----
-
 ## 💼 Let's Work Together!
 
-Looking for a **reliable freelance web developer** to bring your ideas to life? I'm available for **web development projects**, from building responsive websites to creating robust APIs. Feel free to reach out via [LinkedIn][linkedin] or [email](mailto:your.email@example.com) to discuss your next project!
+Looking for a **reliable freelance web developer** to bring your ideas to life? I'm available for **web development projects**, from building responsive websites to creating robust APIs. Visit my portfolio at **[pchanaloet.com](https://pchanaloet.com)** to see my work and get in touch!
