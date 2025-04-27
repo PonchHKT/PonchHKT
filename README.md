@@ -1,84 +1,64 @@
-# 👋 Hi, I'm Ponch | Web Developer in Paradise
+# 👋 Hi, I'm Ponch | Freelance Web Developer
 
 <div align="center">
   <img src="/api/placeholder/850/300" alt="Phuket coastline banner image">
 </div>
 
-## 🧑‍💻 Pornchai Chanaloet
-
-**Freelance Full-Stack Developer** passionately crafting digital experiences from the shores of Phuket, Thailand
+## 💫 About Me
 
 ```javascript
-const ponch = {
-  location: "Phuket, Thailand",
-  expertise: ["Frontend", "Backend", "Responsive Design", "API Development"],
-  languages: ["JavaScript", "TypeScript", "PHP", "Python"],
-  frameworks: ["React", "Vue", "Node.js", "Laravel", "Express"],
-  tools: ["Git", "Docker", "AWS", "Firebase", "MongoDB", "MySQL"],
-  workingOn: "Expanding expertise in cloud-based architectures",
-  available: true
+const developer = {
+  name: "Pornchai Chanaloet",
+  nickname: "Ponch",
+  role: "Freelance Web Developer",
+  location: {
+    country: "Thailand",
+    city: "Phuket",
+    description: "Tropical paradise"
+  },
+  languages: ["Thai", "English"],
+  expertise: ["Frontend", "Backend", "Responsive Design", "Modern Web Apps"],
+  personality: {
+    origin: "Thai by heart",
+    inspiration: "Phuket's vibrant culture",
+    approach: "Creative with global perspective"
+  },
+  specialization: "Custom web solutions with functionality + elegant design",
+  workStyle: "Remote collaboration across different time zones",
+  currentFocus: "Cloud-based architectures and serverless applications",
+  whenNotCoding: ["Exploring Phuket beaches", "Perfecting Thai iced coffee recipe"],
+  mission: "Crafting digital experiences with Thai creativity and global standards"
 };
 ```
 
-## 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-[![Website](https://img.shields.io/badge/Website-pchanaloet.com-blue?style=for-the-badge)](https://pchanaloet.com)
-[![Email](https://img.shields.io/badge/Email-p.chanaloet@gmail.com-red?style=for-the-badge)](mailto:p.chanaloet@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pornchai_Chanaloet-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pornchaichanaloet)
-[![Twitter](https://img.shields.io/badge/Twitter-@pchanaloet-blue?style=for-the-badge&logo=twitter)](https://twitter.com/pchanaloet)
-
-## 💼 What I Do
-
-I specialize in building **modern, responsive, and scalable web applications** that solve real business problems. With expertise in both frontend and backend technologies, I offer end-to-end development services, from concept to deployment.
-
-### Key Skills & Services:
-- **Full-Stack Development** - Creating seamless experiences from server to browser
-- **Responsive Web Design** - Building sites that work beautifully on any device
-- **Custom Web Applications** - Developing tailored solutions for unique business needs
-- **API Development & Integration** - Connecting your systems and services efficiently
-- **Performance Optimization** - Making your web applications lightning fast
-- **CMS Implementation** - Setting up flexible content management systems
-
-## 🌴 About Me
-
-Thai by heart and global in mindset, I bring a unique perspective to every project. Working remotely from the beautiful island of Phuket gives me both the inspiration and focus to deliver exceptional results for clients worldwide.
-
-When I'm not writing code, you might find me:
-- Exploring Phuket's hidden beaches
-- Perfecting my Thai iced coffee recipe
-- Contributing to open-source projects
-- Learning new web technologies
+```
+Frontend: React, Vue.js, Next.js, JavaScript/TypeScript, HTML5, CSS3, Tailwind CSS, SASS
+Backend: Node.js, Express, PHP, Laravel, Python, Django
+Database: MongoDB, PostgreSQL, MySQL, Firebase
+DevOps: Docker, AWS, GCP, CI/CD pipelines, Git
+Tools: VS Code, Figma, Adobe XD, Postman, npm/yarn
+```
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="/api/placeholder/400/200" alt="GitHub Stats">
-  <img src="/api/placeholder/400/200" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=PonchHKT&show_icons=true&theme=tokyonight" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PonchHKT&layout=compact&theme=tokyonight" alt="Most used languages">
 </div>
 
-## 🚀 Featured Projects
+## 📫 Connect with Me
 
-<div align="center">
-  <a href="https://github.com/pchanaloet/project-1">
-    <img src="/api/placeholder/400/180" alt="Project 1">
-  </a>
-  <a href="https://github.com/pchanaloet/project-2">
-    <img src="/api/placeholder/400/180" alt="Project 2">
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/pornchai-chanaloet-575a631bb/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="filter: invert(1);" /></a>
+<a href="https://instagram.com/ponchhkt"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" style="filter: invert(1);" /></a>
+<a href="https://www.facebook.com/poncho.chanaloet/"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" style="filter: invert(1);" /></a>
+<a href="https://discord.gg/user/Ponch#5027"><img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" style="filter: invert(1);" /></a>
 
-## 🌟 2025 Goals
-
-- Expand expertise in cloud-based architectures
-- Contribute to innovative open-source projects
-- Help more businesses establish effective web presence
-- Master new JavaScript frameworks and tools
-- Share knowledge through tech articles and tutorials
+<br><br>
 
 ---
 
 <div align="center">
-  <i>Let's build something amazing together!</i>
-  <br>
-  <a href="https://pchanaloet.com">pchanaloet.com</a> | <a href="mailto:p.chanaloet@gmail.com">p.chanaloet@gmail.com</a>
+  <p>Website: <a href="https://pchanaloet.com">pchanaloet.com</a> | Email: <a href="mailto:p.chanaloet@gmail.com">p.chanaloet@gmail.com</a></p>
 </div>
