@@ -10,7 +10,7 @@ const developer = {
     city: "Phuket",
     description: "Tropical paradise"
   },
-  languages: ["Thai", "English"],
+  languages: ["Thai", "English", "French"],
   expertise: ["Frontend", "Backend", "Responsive Design", "Modern Web Apps"],
   personality: {
     origin: "Thai by heart",
