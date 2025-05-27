@@ -2,7 +2,6 @@
 
 ```javascript
 const developer = {
-  name: "Pornchai Chanaloet",
   nickname: "Ponch",
   role: "Freelance Web Developer",
   location: {
