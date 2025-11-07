@@ -39,24 +39,6 @@ Tools: VS Code, Figma, Canva, Postman, npm/yarn, Trello
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PonchHKT&layout=compact&theme=tokyonight" alt="Most used languages">
 </div>
 
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pornchai-chanaloet-575a631bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/ponchhkt">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/poncho.chanaloet/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://discord.gg/user/Ponch#5027">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
----
 
 <div align="center">
   <p>Website: <a href="https://pchanaloet.com">pchanaloet.com</a> | Email: <a href="mailto:p.chanaloet@gmail.com">p.chanaloet@gmail.com</a></p>
